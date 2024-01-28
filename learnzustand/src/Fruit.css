@@ -1,0 +1,18 @@
+
+button{
+    width: 10rem;
+    height: 2rem;
+    background-color: #008769;
+    color: #ffffff;
+    font-size: 1.2rem;
+    border: 1px solid white;
+    cursor: pointer;
+    
+}
+.fruit h2{
+    margin-left: 5rem;
+}
+.fruit img{
+    width: 10rem;
+    height: 10rem;
+}

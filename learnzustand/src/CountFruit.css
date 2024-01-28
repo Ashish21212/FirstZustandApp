@@ -1,0 +1,12 @@
+.container{
+    width: 98vw;
+    height: 100vh;
+    
+}
+.frow1{
+    display: grid;
+    grid-template-columns: 25rem 25rem 25rem ;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+}
